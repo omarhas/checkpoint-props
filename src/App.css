@@ -1,0 +1,10 @@
+.profile {
+    background-color: rgb(206, 192, 255);
+    width: 400px;
+    margin: 10px auto;
+    padding: 50px;
+}
+
+.project {
+    background-color: rgb(226, 17, 146);
+}
